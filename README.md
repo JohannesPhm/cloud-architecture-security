@@ -12,7 +12,7 @@ My role combined technical project management with active involvement in cloud a
 
 ## 🎯 Business Challenge
 
-Cloud adoption introduced a different set of architecture and security questions compared with traditional infrastructure.
+Cloud adoption introduces a different set of architecture and security challenges compared with traditional infrastructure.
 
 The main challenge was to make sure that cloud solutions were designed in a way that was technically sound, secure and suitable for an enterprise environment.
 
@@ -40,7 +40,7 @@ Where deeper expertise was required, I worked directly with cloud architects and
 
 - Managed the project across cloud, cybersecurity, infrastructure and application teams
 - Reviewed cloud architecture and security concepts together with cloud and security SMEs
-- Assessed IAM, network security, data protection and logging requirements
+- Assessed IAM (identity and access management), network security, data protection and logging requirements
 - Challenged design decisions and helped align technical, security and business requirements
 - Worked with SMEs to define practical improvements before implementation
 
@@ -123,7 +123,7 @@ Not every security control is handled by the cloud provider. Depending on the se
 We therefore looked at questions such as:
 
 - Which security controls are managed by the provider?
-- Which controls must be configured by the customer?
+- Which controls must be configured by the us?
 - Who owns IAM and access reviews?
 - Who is responsible for logging and monitoring?
 - Which risks depend on configuration decisions?
